@@ -1,0 +1,6 @@
+framework module PwdEmailValidator {
+  umbrella header "PwdEmailValidator-umbrella.h"
+
+  export *
+  module * { export * }
+}

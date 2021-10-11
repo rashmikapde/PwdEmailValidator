@@ -1,0 +1,16 @@
+PODS:
+  - PwdEmailValidator (1.0.0)
+
+DEPENDENCIES:
+  - PwdEmailValidator (from `../PwdEmailValidator`)
+
+EXTERNAL SOURCES:
+  PwdEmailValidator:
+    :path: "../PwdEmailValidator"
+
+SPEC CHECKSUMS:
+  PwdEmailValidator: aaab51b9f9e59ea13a01b4af22f23cef6282ef1d
+
+PODFILE CHECKSUM: 29ac95eaddd2284c6d7de02ec844be2bf5ec520d
+
+COCOAPODS: 1.11.0
